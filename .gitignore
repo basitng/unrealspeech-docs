@@ -2,7 +2,6 @@
 node_modules/
 
 # Production build directory
-dist/
 
 # Local development
 .local/
@@ -28,4 +27,3 @@ yarn-error.log*
 Thumbs.db
 
 # VitePress-specific
-.vitepress/dist/
