@@ -49,6 +49,11 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [{ icon: "github", link: "https://github.com/unrealspeech" }],
+    socialLinks: [
+      { icon: "github", link: "https://github.com/unrealspeech" },
+      { icon: "youtube", link: "https://www.youtube.com/@UnrealSpeech" },
+      { icon: "discord", link: "https://discord.gg/kYPYnH8M" },
+      { icon: "twitter", link: "https://twitter.com/UnrealSpeech" },
+    ],
   },
 });
