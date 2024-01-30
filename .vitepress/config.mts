@@ -26,9 +26,9 @@ export default defineConfig({
       {
         text: "🔊 Synthesis",
         items: [
-          { text: "Overview", link: "/synthesis/voice-settings" },
+          { text: "Overview", link: "/synthesis/overview" },
           { text: "Voice Settings", link: "/synthesis/voice-settings" },
-          { text: "Voice Selection", link: "/synthesis/node-js" },
+          { text: "Voice Selection", link: "/synthesis/voice-selection" },
         ],
       },
       {
