@@ -7,11 +7,11 @@ hero:
   tagline: Slash Text-to-Speech Costs by up to 90%
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started
+      link: /guide/get-started
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Get API Key
+      link: https://unrealspeech.com/dashboard
 
 features:
   - title: Cost Efficiency

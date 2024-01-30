@@ -17,6 +17,10 @@ export default defineConfig({
         items: [
           { text: "Get Started", link: "/guide/get-started" },
           { text: "Overview", link: "/guide/overview" },
+          {
+            text: "Generate Your First Audio",
+            link: "/guide/generate-your-first-audio",
+          },
         ],
       },
       {
